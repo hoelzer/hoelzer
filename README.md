@@ -16,15 +16,16 @@ I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved m
 * Cloud computing, automation, and reproducibility with [Nextflow](https://nextflow.io)
 
 ### Skills  :heavy_check_mark:
-![My Skills](https://skillicons.dev/icons?i=linux,r,ruby,powershell,bash,html,markdown,git,github,docker,singularity)[![nextflow](https://avatars.githubusercontent.com/u/6698688?s=48&v=4)](https://nextflow.io/)
+![My Skills](https://skillicons.dev/icons?i=linux,r,ruby,powershell,bash,html,markdown,git,github,docker,latex)[![nextflow](https://avatars.githubusercontent.com/u/6698688?s=48&v=4)](https://nextflow.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoelzer&layout=compact&theme=dark)
 
 ### Software :floppy_disk:
 
-I am working on software for viral genomics. Available through `pip` and `conda`.
+Together with my team and great external people I'm working on software for microbial genomics, nanopore sequencing data, metagenomics, and transcriptomics. I like pipelines written in Nextflow with containerized dependencies:
 
 * [`RNAflow`](https://github.com/hoelzer-lab/rnaflow) A simple yet effective bulk RNA-Seq differential gene expression pipeline using Nextflow.
+*
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hoelzer&show_icons=true&theme=dark)
 
