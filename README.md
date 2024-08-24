@@ -43,8 +43,8 @@ My team and I develop bioinformatics tools and pipelines for microbial genomics,
 * [`RIBAP`](https://github.com/hoelzer-lab/ribap): A comprehensive bacterial core gene-set annotation pipeline based on Roary and pairwise ILPs. [[Paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03312-9)
 * [`POCP-nf`](https://github.com/hoelzer/pocp): Calculation of the Percentage of Conserved Proteins following Qin, Xie _et al_. [[Paper]](https://academic.oup.com/bioinformatics/article/40/4/btae175/7638801?login=false)
 * [`RNAflow`](https://github.com/hoelzer-lab/rnaflow): A simple yet effective bulk RNA-Seq differential gene expression pipeline using Nextflow. [[Paper](https://www.mdpi.com/2073-4425/11/12/1487)]
-* [`VIRify`](https://github.com/EBI-Metagenomics/emg-viral-pipeline): VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. [[Paper]](https://doi.org/10.1101/2022.08.22.504484)
-* [`WhatThePhage`](https://github.com/replikation/What_the_Phage): WtP: Phage identification via nextflow and docker or singularity. [[Paper]](https://doi.org/10.1093/gigascience/giac110)
+* [`VIRify`](https://github.com/EBI-Metagenomics/emg-viral-pipeline): Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. [[Paper]](https://doi.org/10.1101/2022.08.22.504484)
+* [`WhatThePhage`](https://github.com/replikation/What_the_Phage): Phage identification via nextflow and docker or singularity. [[Paper]](https://doi.org/10.1093/gigascience/giac110)
 * [`poreCoV`](https://github.com/replikation/poreCov): SARS-CoV-2 genome reconstruction workflow for nanopore sequence data. [[Paper]](https://www.frontiersin.org/articles/10.3389/fgene.2021.711437/full)
 * [`CoVpipe2`](https://github.com/rki-mf1/CoVpipe2): SARS-CoV-2 genome reconstruction for Illumina data in Nextflow. [[Paper]](https://doi.org/10.12688/f1000research.136683.1)
 * [`CLEAN`](https://github.com/rki-mf1/clean): A nextflow pipeline for decontamination of short reads, long reads and contigs. [[Paper]](https://doi.org/10.1101/2023.08.05.552089)
