@@ -40,6 +40,7 @@ I studied Bioinformatics at the University of Jena, Germany and achieved my PhD 
 
 My team and I develop bioinformatics tools and pipelines for microbial genomics, nanopore sequencing, metagenomics, and transcriptomics. I favor Nextflow pipelines with containerized dependencies for reproducibility. You can find my code on [my personal GitHub](https://github.com/hoelzer), at [github.com/hoelzer-lab](github.com/hoelzer-lab) (from my time leading a team at the University of Jena), and [github.com/rki-mf1](github.com/rki-mf1) (from the RKI Genome Competence Center). We also contribute to other repositories. Here are some examples:
 
+* [`VLQ-nf`](https://github.com/rki-mf1/vlq-nf): SARS-CoV-2 lineage deconvolution from wastewater samples following Baaijens _et al_. [[Paper]](https://doi.org/10.1093/gigascience/giae051)
 * [`RIBAP`](https://github.com/hoelzer-lab/ribap): A comprehensive bacterial core gene-set annotation pipeline based on Roary and pairwise ILPs. [[Paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03312-9)
 * [`POCP-nf`](https://github.com/hoelzer/pocp): Calculation of the Percentage of Conserved Proteins following Qin, Xie _et al_. [[Paper]](https://academic.oup.com/bioinformatics/article/40/4/btae175/7638801?login=false)
 * [`RNAflow`](https://github.com/hoelzer-lab/rnaflow): A simple yet effective bulk RNA-Seq differential gene expression pipeline using Nextflow. [[Paper](https://www.mdpi.com/2073-4425/11/12/1487)]
