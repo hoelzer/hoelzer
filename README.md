@@ -50,6 +50,8 @@ My team and I develop bioinformatics tools and pipelines for microbial genomics,
 * [`CoVpipe2`](https://github.com/rki-mf1/CoVpipe2): SARS-CoV-2 genome reconstruction for Illumina data in Nextflow. [[Paper]](https://doi.org/10.12688/f1000research.136683.1)
 * [`CLEAN`](https://github.com/rki-mf1/clean): A nextflow pipeline for decontamination of short reads, long reads and contigs. [[Paper]](https://doi.org/10.1101/2023.08.05.552089)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=hoelzer-lab/ribap,hoelzer-lab/rnaflow,hoelzer/pocp,rki-mf1/clean,replikation/porecov,EBI-Metagenomics/emg-viral-pipeline,replikation/What_the_Phage&type=date&legend=top-left)](https://www.star-history.com/#hoelzer-lab/ribap&hoelzer-lab/rnaflow&hoelzer/pocp&rki-mf1/clean&replikation/porecov&EBI-Metagenomics/emg-viral-pipeline&replikation/What_the_Phage&type=date&legend=top-left)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=hoelzer&show_icons=true&theme=dark)
 
 ### Selected publications :scroll:
