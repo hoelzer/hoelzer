@@ -50,7 +50,13 @@ My team and I develop bioinformatics tools and pipelines for microbial genomics,
 * [`CoVpipe2`](https://github.com/rki-mf1/CoVpipe2): SARS-CoV-2 genome reconstruction for Illumina data in Nextflow. [[Paper]](https://doi.org/10.12688/f1000research.136683.1)
 * [`CLEAN`](https://github.com/rki-mf1/clean): A nextflow pipeline for decontamination of short reads, long reads and contigs. [[Paper]](https://doi.org/10.1101/2023.08.05.552089)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoelzer-lab/ribap,hoelzer-lab/rnaflow,hoelzer/pocp,rki-mf1/clean,replikation/porecov,EBI-Metagenomics/emg-viral-pipeline,replikation/What_the_Phage&type=date&legend=top-left)](https://www.star-history.com/#hoelzer-lab/ribap&hoelzer-lab/rnaflow&hoelzer/pocp&rki-mf1/clean&replikation/porecov&EBI-Metagenomics/emg-viral-pipeline&replikation/What_the_Phage&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=hoelzer-lab%2Fribap%2Choelzer-lab%2Frnaflow%2Choelzer%2Fpocp%2Crki-mf1%2Fclean%2Creplikation%2Fporecov%2CEBI-Metagenomics%2Femg-viral-pipeline%2Creplikation%2FWhat_the_Phage&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hoelzer-lab/ribap%2Choelzer-lab/rnaflow%2Choelzer/pocp%2Crki-mf1/clean%2Creplikation/porecov%2CEBI-Metagenomics/emg-viral-pipeline%2Creplikation/What_the_Phage&type=date&theme=dark&legend=top-left&sealed_token=k0_iUKWb6b_g3ipLm48VaLZLK258WwwlycXkFKD3bz4QEn5v-luxvQxXwIZ6L9HAT1jjR6eVoZJGyvc5pXUHTHsNm6GlVnRCldZrW6MQ0DRkfiOqGtVlNsZsMunRXpvZA16yFXo2kTIci_ulBziLrOlU8Q5SCHeRVgnxIeTW6FT09Vnv4y5gXPorj7On" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hoelzer-lab/ribap%2Choelzer-lab/rnaflow%2Choelzer/pocp%2Crki-mf1/clean%2Creplikation/porecov%2CEBI-Metagenomics/emg-viral-pipeline%2Creplikation/What_the_Phage&type=date&legend=top-left&sealed_token=k0_iUKWb6b_g3ipLm48VaLZLK258WwwlycXkFKD3bz4QEn5v-luxvQxXwIZ6L9HAT1jjR6eVoZJGyvc5pXUHTHsNm6GlVnRCldZrW6MQ0DRkfiOqGtVlNsZsMunRXpvZA16yFXo2kTIci_ulBziLrOlU8Q5SCHeRVgnxIeTW6FT09Vnv4y5gXPorj7On" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hoelzer-lab/ribap%2Choelzer-lab/rnaflow%2Choelzer/pocp%2Crki-mf1/clean%2Creplikation/porecov%2CEBI-Metagenomics/emg-viral-pipeline%2Creplikation/What_the_Phage&type=date&legend=top-left&sealed_token=k0_iUKWb6b_g3ipLm48VaLZLK258WwwlycXkFKD3bz4QEn5v-luxvQxXwIZ6L9HAT1jjR6eVoZJGyvc5pXUHTHsNm6GlVnRCldZrW6MQ0DRkfiOqGtVlNsZsMunRXpvZA16yFXo2kTIci_ulBziLrOlU8Q5SCHeRVgnxIeTW6FT09Vnv4y5gXPorj7On" />
+ </picture>
+</a>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hoelzer&show_icons=true&theme=dark)
 
